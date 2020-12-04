@@ -1,0 +1,6 @@
+Ep: 109, Score: 35007986.4, Steps: 828, n_steps: 1000, training_start: 500
+Ep: 180, Score: 41464855.199999996, Steps: 1041, n_steps: 5000, training_start: 500
+Ep: 285, Score: 3102104.8249999997, Steps: 1356, n_steps: 10000, training_start: 500
+Ep: 1, Score: 287.38392944335936, Steps: 1005, n_steps: 1000, training_start: 1000
+Ep: 217, Score: 450100393.59999996, Steps: 1653, n_steps: 5000, training_start: 1000
+Ep: 182, Score: 10161982.799999999, Steps: 1548, n_steps: 10000, training_start: 1000
